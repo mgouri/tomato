@@ -22,11 +22,11 @@
             <artifactId>maven-release-plugin</artifactId>
             <groupId>org.apache.maven.plugins</groupId>
             <version>2.5.3</version>
-            <!--<configuration>
+            <configuration>
             <tagBase>
-                scm:git:https://github.com/nimma123/sample1.git/tags
+                scm:git:https://github.com/mangala1/tomato.git/tags
             </tagBase>
-            </configuration>-->
+            </configuration>
         </plugin>
 
     </plugins>
