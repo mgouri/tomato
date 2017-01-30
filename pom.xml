@@ -17,6 +17,18 @@
             <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
     </plugin>
+
+        <plugin>
+            <artifactId>maven-release-plugin</artifactId>
+            <groupId>org.apache.maven.plugins</groupId>
+            <version>2.5.3</version>
+            <!--<configuration>
+            <tagBase>
+                scm:git:https://github.com/nimma123/sample1.git/tags
+            </tagBase>
+            </configuration>-->
+        </plugin>
+
     </plugins>
     </build>
     <distributionManagement>
