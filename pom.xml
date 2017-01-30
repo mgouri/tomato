@@ -29,5 +29,7 @@
             <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
-
+    <scm>
+        <developerConnection>scm:git:git@github.com:mangala1/tomato.git</developerConnection>
+    </scm>
 </project>
