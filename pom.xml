@@ -30,6 +30,6 @@
         </snapshotRepository>
     </distributionManagement>
     <scm>
-        <developerConnection>scm:git:git@github.com:mangala1/tomato.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/mangala1/tomato.git </developerConnection>
     </scm>
 </project>
